@@ -1,6 +1,6 @@
 # Task-Todo
 
-A Flutter application for managing to-do lists.
+A Flutter application for managing to-do lists. This app allows users to create, update, and delete tasks, providing both online and offline storage capabilities.
 
 ## Getting Started
 
@@ -13,9 +13,5 @@ Make sure you have Flutter installed on your machine. You can follow the officia
 ### Setup
 
 1. Clone the repository:
+   ```bash
    git clone https://github.com/noman-hassann/task-todo.git
-2.Ger packges using this command
-  flutter pub get
-
-
-
