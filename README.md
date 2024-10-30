@@ -1,17 +1,21 @@
-# scanguard
+# Task-Todo
 
-A new Flutter project.
+A Flutter application for managing to-do lists.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Make sure you have Flutter installed on your machine. You can follow the official Flutter installation guide [here](https://docs.flutter.dev/get-started/install).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Task-Todo
+### Setup
+
+1. Clone the repository:
+   git clone https://github.com/noman-hassann/task-todo.git
+2.Ger packges using this command
+  flutter pub get
+
+
+
